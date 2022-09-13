@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-xsm{
+    font-size: 0.60rem; /* 12px */
+    line-height: 1.3rem; /* 16px */
+}
